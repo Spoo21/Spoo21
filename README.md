@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sam
-- 👀 I’m interested in ...web development based system
+- 👀 I’m interested in ...web development based system and data science
 - 🌱 I’m currently learning ...html,css,javascript and python
 - 💞️ I’m looking to collaborate on ...development of system
 - 📫 How to reach me ...sammraya98@gmail.com
